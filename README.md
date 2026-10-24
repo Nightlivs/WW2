@@ -1,2 +1,2 @@
 # WW2
-Uma página informativa sobre a Segunda Guerra Mundiaol
+Uma página informativa sobre a Segunda Guerra Mundial
